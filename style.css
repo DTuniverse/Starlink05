@@ -35,3 +35,15 @@ header.header-center {
 header.header-right {
   justify-content: right;
 }
+
+
+.footer{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer p{
+  margin: 30px auto;
+}
