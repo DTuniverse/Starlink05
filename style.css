@@ -5,7 +5,7 @@
   font-family: Roboto;
 }
 
-#h1 {
+#h2 {
   display: flex;
   justify-content: center;
   margin-top: 70px;
@@ -13,7 +13,7 @@
   color: white;
 }
 
-#h2 {
+#p2 {
   display: flex;
   justify-content: center;
   left: 350px;
