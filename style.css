@@ -5,6 +5,25 @@
   font-family: Roboto;
 }
 
+#h1 {
+  display: flex;
+  justify-content: center;
+  margin-top: 70px;
+  margin-bottom: 50px;
+  color: white;
+}
+
+#h2 {
+  display: flex;
+  justify-content: center;
+  left: 350px;
+  width: 550px;
+  height: 200px;
+  text-align: center;
+  color: white;
+  text-align: center;
+}
+
 #imagemenu {
   width: 2em;
 }
