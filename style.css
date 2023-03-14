@@ -5,7 +5,13 @@
   font-family: Roboto;
 }
 
+html {
+  background-image: url('img/Marketing_LandingFeatured_Redesign.webp');
+  background-size: cover;
+}
+
 nav {
+  color: white;
   margin-top: 3.5vw;
   flex-direction: row;
 }
@@ -36,8 +42,8 @@ header.header-right {
   justify-content: right;
 }
 
-.footer{
-  background-color: white;
+.footer {
+  color: white;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -47,7 +53,7 @@ header.header-right {
   margin: 2px 2px;
 }
 
-.footer p{
+.footer p {
   margin: 40px auto;
   font-size: 12px;
 }
