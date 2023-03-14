@@ -42,8 +42,14 @@ header.header-right {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  
 }
 
 .footer p{
   margin: 30px auto;
+}
+
+.footer a {
+  color:green;
+  background: transparent;
 }
