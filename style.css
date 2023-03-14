@@ -9,7 +9,7 @@
   display: flex;
   justify-content: center;
   margin-top: 70px;
-  margin-bottom: 50px;
+  margin-bottom: 150px;
   color: white;
 }
 
@@ -25,7 +25,7 @@
 }
 
 #imagemenu {
-  width: 2em;
+  width: 1.5em;
 }
 
 a:-webkit-any-link {
