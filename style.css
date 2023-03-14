@@ -17,13 +17,9 @@
 #p2 {
   display: flex;
   justify-content: center;
-  left: 350px;
-  width: 550px;
-  height: 200px;
-  text-align: center;
   color: white;
+  margin-bottom: 23vw;
   text-align: center;
-  margin-bottom: 15vw;
 }
 
 #imagemenu {
@@ -47,7 +43,7 @@ html {
 
 nav {
   color: white !important;
-  margin-top: 3.5vw;
+  margin-top: 3vw;
   flex-direction: row;
 }
 
@@ -137,11 +133,11 @@ header.header-right {
   color: white;
   background: transparent;
   text-decoration: none;
-  margin: 10px auto;
+  margin: 20px auto;
 }
 
 .footer p {
-  margin: 40px auto;
+  margin: 30px auto;
   font-size: 12px;
   color: lightgrey;
 }
