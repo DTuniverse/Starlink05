@@ -85,11 +85,7 @@ header.header-right {
 .header-main p {
   display: flex;
   justify-content: center;
-  position: relative;
-  left: 350px;
-  width: 550px;
   height: 200px;
-  text-align: center;
   color: white;
   text-align: center;
 }
