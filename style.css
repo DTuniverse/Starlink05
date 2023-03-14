@@ -73,6 +73,28 @@ header.header-right {
   box-sizing: border-box;
 }
 
+
+h1 {
+  display: flex;
+  justify-content: center;
+  margin-top: 70px;
+  margin-bottom: 50px;
+  color: white;
+
+}
+
+p {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  left: 350px;
+  width: 550px;
+  height: 200px;
+  text-align: center;
+  color: white;
+  text-align: center;
+}
+
 .footer {
   display: flex;
   flex-direction: column;
