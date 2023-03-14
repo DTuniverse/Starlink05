@@ -16,7 +16,7 @@ a:-webkit-any-link {
 }
 
 html {
-  background-image: url('img/Marketing_LandingFeatured_Redesign.webp');
+  background-image: url("img/Marketing_LandingFeatured_Redesign.webp");
   background-size: cover;
 }
 
@@ -71,6 +71,7 @@ header.header-right {
   font-size: 12px;
   font-weight: 400;
   border: solid white 2px;
+  border-radius: 4px;
   opacity: 0.5;
 }
 
@@ -87,6 +88,23 @@ header.header-right {
   box-sizing: border-box;
 }
 
+
+.header-main h1 {
+  display: flex;
+  justify-content: center;
+  margin-top: 70px;
+  margin-bottom: 50px;
+  color: white;
+}
+
+.header-main p {
+  display: flex;
+  justify-content: center;
+  height: 200px;
+  color: white;
+  text-align: center;
+}
+
 .footer {
   display: flex;
   flex-direction: column;
@@ -97,9 +115,12 @@ header.header-right {
 .footer a {
   color: white;
   background: transparent;
+  text-decoration: none;
+  margin: 10px auto;
 }
 
 .footer p {
   margin: 40px auto;
   font-size: 12px;
+  color: lightgrey;
 }
