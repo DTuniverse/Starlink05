@@ -1,7 +1,39 @@
-/* @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap"); */
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap");
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   font-family: Roboto;
+}
+
+nav {
+  margin-top: 3.5vw;
+  flex-direction: row;
+}
+
+ul {
+  display: flex;
+  list-style: none;
+}
+
+ul li {
+  padding-inline: 1em;
+}
+
+.navbar {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  justify-content: space-evenly;
+  justify-items: center;
+  align-content: space-around
+}
+
+header.header-center {
+  flex-direction: row;
+  justify-content: center;
+}
+
+header.header-right {
+  justify-content: right;
 }
