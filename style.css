@@ -82,9 +82,12 @@ header.header-right {
 .footer a {
   color: white;
   background: transparent;
+  text-decoration: none;
+  margin: 10px auto;
 }
 
 .footer p {
   margin: 40px auto;
   font-size: 12px;
+  color: lightgrey;
 }
