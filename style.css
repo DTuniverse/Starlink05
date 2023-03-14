@@ -47,6 +47,10 @@ header.header-right {
   display: flex;
   justify-content: center;
   align-items: center;
+
+.footer a {
+  color:green;
+  background: transparent;
   flex-direction: column;
   padding: 2px 2px;
   width: 100%;
