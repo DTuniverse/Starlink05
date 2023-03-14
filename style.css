@@ -70,6 +70,7 @@ header.header-right {
   border-radius: 4px;
   padding: 0px 75px;
   box-sizing: border-box;
+}
 
 .footer {
   display: flex;
