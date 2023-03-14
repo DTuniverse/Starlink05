@@ -5,13 +5,27 @@
   font-family: Roboto;
 }
 
+#imagemenu {
+  width: 2em;
+}
+
+a:-webkit-any-link {
+  color: white;
+  cursor: pointer;
+  text-decoration: none;
+}
+
 html {
   background-image: url("img/Marketing_LandingFeatured_Redesign.webp");
   background-size: cover;
 }
 
+#logo {
+  letter-spacing: 0.2em;
+}
+
 nav {
-  color: white;
+  color: white !important;
   margin-top: 3.5vw;
   flex-direction: row;
 }
@@ -49,6 +63,7 @@ header.header-right {
   gap: 10px;
   flex-wrap: wrap;
 }
+
 #inputDT {
   color: #b8b8b8;
   padding: 0 200px 0 25px;
@@ -105,9 +120,7 @@ header.header-right {
 }
 
 .footer p {
-  
   margin: 40px auto;
   font-size: 12px;
   color: lightgrey;
-  
 }
