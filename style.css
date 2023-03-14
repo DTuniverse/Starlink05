@@ -43,19 +43,15 @@ header.header-right {
 }
 
 .footer {
-  color: white;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
 }
   
 .footer a {
-  color:green;
+  color:white;
   background: transparent;
-  flex-direction: column;
-  padding: 2px 2px;
-  width: 100%;
-  margin: 2px 2px;
 }
 
 .footer p {
