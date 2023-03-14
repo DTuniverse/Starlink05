@@ -74,16 +74,15 @@ header.header-right {
 }
 
 
-h1 {
+.header-main h1 {
   display: flex;
   justify-content: center;
   margin-top: 70px;
   margin-bottom: 50px;
   color: white;
-
 }
 
-p {
+.header-main p {
   display: flex;
   justify-content: center;
   position: relative;
@@ -110,7 +109,9 @@ p {
 }
 
 .footer p {
+  
   margin: 40px auto;
   font-size: 12px;
   color: lightgrey;
+  
 }
