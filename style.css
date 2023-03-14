@@ -37,3 +37,24 @@ header.header-center {
 header.header-right {
   justify-content: right;
 }
+
+
+
+
+
+.footer{
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 2px 2px;
+  width: 100%;
+  margin: 2px 2px;
+}
+
+.footer p{
+  margin: 40px auto;
+  font-size: 12px;
+}
+
