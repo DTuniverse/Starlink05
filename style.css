@@ -6,6 +6,7 @@
 }
 
 #h2 {
+  font-size: x-large;
   display: flex;
   justify-content: center;
   margin-top: 70px;
@@ -14,7 +15,6 @@
 }
 
 #p2 {
-  font-size: x-large;
   display: flex;
   justify-content: center;
   left: 350px;
