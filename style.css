@@ -6,7 +6,7 @@
 }
 
 html {
-  background-image: url('img/Marketing_LandingFeatured_Redesign.webp');
+  background-image: url("img/Marketing_LandingFeatured_Redesign.webp");
   background-size: cover;
 }
 
@@ -56,6 +56,7 @@ header.header-right {
   font-size: 12px;
   font-weight: 400;
   border: solid white 2px;
+  border-radius: 4px;
   opacity: 0.5;
 }
 
@@ -100,7 +101,7 @@ p {
   justify-content: center;
   align-items: center;
 }
-  
+
 .footer a {
   color: white;
   background: transparent;
